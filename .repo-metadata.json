@@ -1,0 +1,15 @@
+{
+  "name": "osconfig",
+  "name_pretty": "Cloud OS Config",
+  "product_documentation": "https://cloud.google.com/compute/docs/osconfig/",
+  "client_documentation": "https://cloud.google.com/compute/docs/os-config-management",
+  "issue_tracker": "https://github.com/googleapis/nodejs-osconfig/issues",
+  "release_level": "BETA",
+  "language": "nodejs",
+  "repo": "googleapis/nodejs-osconfig",
+  "distribution_name": "@google-cloud/osconfig",
+  "api_id": "osconfig.googleapis.com",
+  "default_version": "v1",
+  "requires_billing": true
+}
+
